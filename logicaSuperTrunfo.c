@@ -11,7 +11,7 @@ int main() {
 
     
     // Cadastro das Cartas:
-    // Implemente a lógica para solicitar ao usuário que insira os dados das cidades
+    printf("ola mundo, no codespace/n");
     // utilizando a função scanf para capturar as entradas.
     // utilize o código do primeiro desafio
 
